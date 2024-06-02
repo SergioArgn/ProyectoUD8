@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>laSexta</title>
+        <link>https://www.lasexta.com/</link>
+        <description>Es el Canal RSS que voy a utilizar como ejemplo de este proyecto</description>
+        <language>es</language>
+
+
+        <item>
+            <title>El Real Madrid ya tiene la Decimoquinta Champions League tras ganar al Borussia Dortmund en Wembley</title>
+            <link>https://www.lasexta.com/noticias/deportes/futbol/borussia-dortmund-real-madrid-directo-hoy-final-champions-league-wembley_20240601665b4b23e73ed6000149303a.html</link>
+            <description>El Real Madrid sufrió ante el Dortmund en Londres. Sufrió y, como suele ser habitual, ganó. Los blancos suman su 15ª Champions League en el mítico estadio de Wembley gracias a los goles de Dani Carvajal y de Vinicius.</description>
+            <guid isPermaLink="true">https://www.lasexta.com/noticias/deportes/futbol/borussia-dortmund-real-madrid-directo-hoy-final-champions-league-wembley_20240601665b4b23e73ed6000149303a.html</guid>
+        </item>
+
+        <item>
+            <title>Guerra Rusia-Ucrania, última hora | Zelenski acusa a China de ayudar a Rusia a prolongar la guerra</title>
+            <link>https://www.lasexta.com/noticias/internacional/guerra-rusiaucrania-ultima-hora-zelenski-viaja-a-bruselas-para-recibir-apoyo-militar-de-belgica-antes-de-su-paso-por-portugal_2024052866557e3917629a00013efe57.html</link>
+            <description>El presidente ucraniano lo ha hecho este domingo por la mañana desde la Cumbre de Seguridad que se celebra en Singapur. En esa línea, considera que Pekín ha hecho "todo lo que está en su mano" para "obstaculizar" la próxima cumbre de Suiza.</description>
+            <guid isPermaLink="true">https://www.lasexta.com/noticias/internacional/guerra-rusiaucrania-ultima-hora-zelenski-viaja-a-bruselas-para-recibir-apoyo-militar-de-belgica-antes-de-su-paso-por-portugal_2024052866557e3917629a00013efe57.html</guid>
+        </item>
+
+        <item>
+            <title>España ya tiene más 'sísís' que 'ninis': cae diez puntos el porcentaje de jóvenes que no estudian ni trabajan</title>
+            <link>https://www.lasexta.com/noticias/economia/espana-tiene-mas-sisis-que-ninis-cae-diez-puntos-porcentaje-jovenes-estudian-trabajan_202405316659e4a4e73ed6000146c382.html</link>
+            <description>El porcentaje de jóvenes 'ninis' ha caído al 12,3%, diez puntos menos que en 2013, gracias a una combinación de menor abandono escolar, más jóvenes con estudios superiores y un incremento del empleo juvenil.</description>
+            <guid isPermaLink="true">https://www.lasexta.com/noticias/economia/espana-tiene-mas-sisis-que-ninis-cae-diez-puntos-porcentaje-jovenes-estudian-trabajan_202405316659e4a4e73ed6000146c382.html</guid>
+        </item>
+
+        <item>
+            <title>Telefónica investiga una posible filtración de datos de 120.000 clientes y empleados</title>
+            <link>https://www.lasexta.com/noticias/ciencia-tecnologia/telefonica-investiga-posible-filtracion-datos-120000-clientes-empleados_202405286655c5013a4a7f000148e738.html</link>
+            <description>La compañía investiga un posible ciberataque que se habría realizado el pasado mes de marzo para robar información de sus clientes y empleados. Al parecer, esto no habría afectado a datos sensibles.</description>
+            <guid isPermaLink="true">https://www.lasexta.com/noticias/ciencia-tecnologia/telefonica-investiga-posible-filtracion-datos-120000-clientes-empleados_202405286655c5013a4a7f000148e738.html</guid>
+        </item>
+    </channel>
+</rss>
